@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and system programming.
 - 🌱 I’m currently learning rust-lang and flutter.
 - 💞️ I’m looking to collaborate on flutter projects
-- 📫 Mail at prakashsagwara@gmail.com
+- 📫 Youtube: https://www.youtube.com/@prk-jr
 - ✨ Checkout my portfolio at prk-jr.web.app
 
 <!---
